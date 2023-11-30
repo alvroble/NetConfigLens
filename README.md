@@ -1,2 +1,2 @@
 # annec
-Annalysis of Netkwork Equipment Configuration using AI
+Analysis of Netkwork Equipment Configuration using AI
