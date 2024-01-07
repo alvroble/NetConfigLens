@@ -154,6 +154,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Alvaro Robledo - alv.rbarba@gmail.com
 
+[![linkedin-shield][linkedin-shield]][linkedin-url]
+
 Project Link: [https://github.com/alvroble/NetConfigLens](https://github.com/alvroble/NetConfigLens)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
