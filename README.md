@@ -40,13 +40,6 @@
     Analysis of Netkwork Equipment Configuration using AI
     <br />
     <a href="https://github.com/alvroble/NetConfigLens"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/alvroble/NetConfigLens">View Demo</a>
-    ·
-    <a href="https://github.com/alvroble/NetConfigLens/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/alvroble/NetConfigLens/issues">Request Feature</a>
   </p>
 </div>
 
